@@ -1,6 +1,6 @@
 ## 🌟 Sky Light
 
-A hugo powered static website for Sky Light
+A hugo powered static website.
 
 ### Prerequisites
 
